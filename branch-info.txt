@@ -9,13 +9,15 @@ Branches in this repo (with details):
     503112b | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-10-09T22:20:05Z | Merge branch 'main' of github.com:NumairHussain/lab7-testing-with-mock-Links-to-an-external-site..-
     86f6798 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:50:49Z | Auto-update branch-info.txt
     0ae751b | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-10-07T18:50:19Z | finished lab
-- dependabot/github_actions/actions/checkout-5
-  SHA: 9e751c67e96b2c2535a50b61e11738612b076b72
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: 351d438ad7171e4ce99cac0e0be63a2d4e8169f9
+  Commits: 9
   Recent commits:
-    9e751c6 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T17:13:11Z | Bump actions/checkout from 3 to 5
-    13ecc92 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:12:44Z | Auto-update branch-info.txt
-    6bebe97 | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T13:12:34-04:00 | Initial commit
+    351d438 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T06:42:40Z | Bump actions/checkout from 3 to 6
+    5413eeb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T06:19:31Z | Auto-update branch-info.txt
+    497d4ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T22:20:33Z | Auto-update branch-info.txt
+    503112b | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-10-09T22:20:05Z | Merge branch 'main' of github.com:NumairHussain/lab7-testing-with-mock-Links-to-an-external-site..-
+    86f6798 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:50:49Z | Auto-update branch-info.txt
 - lab7
   SHA: 0ae751babd4c936290f01b1d1085fd5cce5e8819
   Commits: 4
@@ -25,11 +27,11 @@ Branches in this repo (with details):
     13ecc92 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:12:44Z | Auto-update branch-info.txt
     6bebe97 | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T13:12:34-04:00 | Initial commit
 - main
-  SHA: 497d4ac8a4890837fe133cefd23e2daaacf21300
-  Commits: 7
+  SHA: 5413eeb3d8b9046f1bb99880a1ad35808680afca
+  Commits: 8
   Recent commits:
+    5413eeb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T06:19:31Z | Auto-update branch-info.txt
     497d4ac | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T22:20:33Z | Auto-update branch-info.txt
     503112b | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-10-09T22:20:05Z | Merge branch 'main' of github.com:NumairHussain/lab7-testing-with-mock-Links-to-an-external-site..-
     86f6798 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:50:49Z | Auto-update branch-info.txt
     0ae751b | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-10-07T18:50:19Z | finished lab
-    a86b420 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:13:21Z | Auto-update branch-info.txt
